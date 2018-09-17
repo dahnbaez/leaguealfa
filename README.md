@@ -1,3 +1,3 @@
 ## Alfa League Project
 
-This project was begin by Dahnbaez.
+This project was start by Dahnbaez.
